@@ -68,7 +68,7 @@ $$
 So that's it? Why does this article exist? Well, you'd be surprised how many people don't believe the 7 years. I've heard all sorts of reactions:
 
 - 7 years is a lot time, there's no way I can keep my money saved that long
-  - Average human life expectancy in the world is 70 years for men, and in the US it's higher. You likely have a long life ahead of you.
+  - Average human life expectancy in the world is 70 years for men [2], and in the US it's higher. You likely have a long life ahead of you.
 - 7 years is so short, if it was true wouldn't everyone be rich?
   - Yes, but you'd be surprised how much trouble people have saving, keeping their money still, fighting gambling spirits, etc.
 - The doubling doesn't account for inflation!
