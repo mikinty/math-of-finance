@@ -166,15 +166,11 @@ The other thing to note is that, if you're investing in a Hedge Fund, you're pro
 
 There is a popular economic theory called the Efficient Markets Hypothesis (EMH), which says
 
-```
-Public information is priced in instantly. To beat the market, you need non-public insight.
-```
+> Public information is priced in instantly. To beat the market, you need non-public insight.
 
 The classic joke is:
 
-```
-Two economists are walking down the street. One of them says "Look, there’s a twenty-dollar bill on the sidewalk!" The other economist says "No there’s not. If there was, someone would have picked it up already."
-```
+> Two economists are walking down the street. One of them says "Look, there’s a twenty-dollar bill on the sidewalk!" The other economist says "No there’s not. If there was, someone would have picked it up already."
 
 It's ridiculous, right? And, it is. The market is not efficient, but that doesn't mean it's easy to beat it.
 
