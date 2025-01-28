@@ -77,6 +77,33 @@ So that's it? Why does this article exist? Well, you'd be surprised how many peo
 
 The last one is a good point, let's talk about that more...
 
+## Drawdowns
+
+A **drawdown** is any time a stock price falls from a peak value. So, as an example, if you had a stock price have a peak (can be local or global) at $100, and it falls to $80 in the following weeks, then you've had a drawdown of 20% in the stock.
+
+As alluded to above in the concerns about the stock market, the S&P500 has had some pretty nasty drawdowns. You can check out a [list here courtesy of Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets).
+
+For some of the notable examples:
+
+- [Great Depression (1929-1932)](https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929): 86% drawdown.
+  - Market didn't reach ATH again until 1954.
+- [Black Monday (Oct 19, 1987)](<https://en.wikipedia.org/wiki/Black_Monday_(1987)>): 20.4% single day drop (imagine that!)
+  - Market recovered by July 1989.
+- [Dotcom Bubble (2000-2002)](https://en.wikipedia.org/wiki/Dot-com_bubble): 47.2% drawdown
+  - Market reached heights again by 2007...which unfortunately lead to the next crash
+- [Great Financial Crisis (2007-2009)](https://en.wikipedia.org/wiki/United_States_bear_market_of_2007–2009): 50%
+  - Market returned to its peak in March 2013
+- COVID-19 (2020 Feb-Mar): 34%
+  - A miraculous stick save, to get the market back to ATH by August 2020. As President Trump put it, "we're going to have a V-shaped recovery!"
+
+So, if I'm potentially subjecting myself to many years of pain, why would I do that? Well, the market isn't _guaranteed_ to go up. It's just in the long term, it does. And, the price you pay for these returns is the pain you go through during each crash -- _no pain, no gain_.
+
+If you want to have a safer investment, you can invest in short-term bonds, which pending nuclear war and societal collapse, will go up. But their returns are paltry, so why bother in the long term? (obviously, this means if you can't afford to have a drawdown in the short term for some reason, e.g. mortgage, you're getting old, etc, then you should move your money from stocks (risky) to bonds (less risky))
+
+## Does Any of this Matter?
+
+[`It's just money. It's made up.`](https://www.youtube.com/watch?v=IAqAl292ozs)
+
 ## Sources
 
 [1] https://tradethatswing.com/average-historical-stock-market-returns-for-sp-500-5-year-up-to-150-year-averages/
