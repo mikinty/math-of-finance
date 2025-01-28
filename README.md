@@ -222,7 +222,9 @@ The market is usually calm, so the volatility doesn't really become apparent. Bu
 
 ### Gambling Spirits
 
-Most of us, especially when younger, have a risk appetite, so we _need_ to take on some risk. In that case, there's no point in becoming a closeted gambler, you need some sort of outlet, or else it might manifest in other ways. In that case, a good guidance is to create a new brokerage, only with 10-20% of your total wealth, and you can do whatever you want with it. If it goes to 0, from the [drawdowns analysis](#the-asymmetric-nature-of-losses) we did earlier, we can see a 20% loss would only take around 2 years to get back.
+Most of us, especially when younger, have a risk appetite, so we _need_ to take on some risk. In that case, there's no point in becoming a closeted gambler. You need some sort of outlet, or else it might manifest in other ways.
+
+In that case, a good guidance is to create a new brokerage, only with 10-20% of your total wealth, and you can do whatever you want with it. If it goes to 0, from the [drawdowns analysis](#the-asymmetric-nature-of-losses) we did earlier, we can see a 20% loss would only take around 2 years to get back.
 
 ### Closing
 
