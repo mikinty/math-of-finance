@@ -1,6 +1,6 @@
 # The Math of Finance
 
-$$\textbf{Theorem 1}: \text{Your money will double every 7 years in the S\&P500}$$
+$$\textbf{Theorem 1}: \text{Your money will double every 7 years in the S\\&P500}$$
 
 If you can accept that, congrats. You are one of the minority.
 
