@@ -190,7 +190,7 @@ Here are some common pitfalls I see, a lot I find from Twitter:
   - Some will even go through the trouble to post losses just to seem more "genuine"
 - In their subscription, which can be a discord channel, chat group, substack, etc., they will post trades, which you can follow
   - Here is a thought experiment: if this "furu" was so good at making money, why are they sharing their alpha with you? The more people know about an edge, the faster it dries up.
-  - The other thing to think about, is if someone is earning money from subs, let's say someone is charging $300 a month and has 300 subscribers. They are making $90k/month! They can just buy the S&P500 and be very happy about their future prospects.
+  - The other thing to think about, is if someone is earning money from subs, let's say someone is charging $300 a month and has 300 subscribers. They are making $90k/month and $1m+ a year! They can just buy the S&P500 and be very happy about their future prospects.
 
 ### Buying Options
 
