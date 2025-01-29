@@ -139,7 +139,7 @@ If you find yourself having a very large drawdown that's gonna lead to a margin 
 
 There is a [good thread about trading down from too much risk exposure from `therobotjames`](https://x.com/therobotjames/status/1759368977594376351). This picture summarizes it pretty well:
 
-![image](https://github.com/user-attachments/assets/78212338-6926-427b-a95a-8e512dc32841)
+![image](https://github.com/user-attachments/assets/160e1979-ccdd-44da-a90a-4635e948affb)
 
 ## The Salesmen
 
