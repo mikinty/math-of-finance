@@ -99,6 +99,8 @@ For some of the notable examples:
 
 These are just some of the crazy events that have happened in history. And despite the pain then, every time the United States has risen stronger. In the moment, when it rains, it pours. But the cliche of keeping your head up is true, there will always be better days ahead (unless the world ends, then [nothing matters](#does-any-of-this-matter)).
 
+![image](https://github.com/user-attachments/assets/eeaccf5d-81ec-48e1-a374-ec36caf36f1c)
+
 So, if I'm potentially subjecting myself to many years of pain, why would I do that? Well, the market isn't _guaranteed_ to go up. It's just in the long term, it does. And, the price you pay for these returns is the pain you go through during each crash -- _no pain, no gain_.
 
 If you want to have a safer investment, you can invest in short-term bonds, which pending nuclear war and societal collapse, will go up. But their returns are paltry, so why bother in the long term? (obviously, this means if you can't afford to have a drawdown in the short term for some reason, e.g. mortgage, you're getting old, etc, then you should move your money from stocks (risky) to bonds (less risky))
